@@ -47,7 +47,7 @@ class CoinToss extends Component {
             Toss Coin
           </button>
           <div className="container">
-            <p className="p">Total : {totalCount} </p>
+            <p className="p">Total : {totalCount}</p>
             <p className="p">Heads : {headsCount}</p>
             <p className="p">Tails : {tailsCount}</p>
           </div>
